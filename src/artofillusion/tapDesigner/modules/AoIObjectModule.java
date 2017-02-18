@@ -37,7 +37,7 @@ import artofillusion.tapDesigner.TapModule.*;
 /**
  *  This class represents an AoI object module
  *
- *@author     Franc�ois Guillet
+ *@author     François Guillet
  *@created    19 avril 2004
  */
 public class AoIObjectModule

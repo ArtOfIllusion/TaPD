@@ -35,7 +35,7 @@ import buoy.widget.*;
  *  have. Some methods are abstract, some others implement a default behavior.
  *  The subclasses represent specific kinds of modules.
  *
- *@author     Fran�ois Guillet
+ *@author     François Guillet
  *@created    19 avril 2004
  */
 public abstract class TapModule
