@@ -48,7 +48,7 @@
         version="true"
         use="true"
         windowtitle="Trees and Plants Designer Documentation"
-	public="true">
+        public="true">
       <doctitle><![CDATA[<h1>Trees and Plants Designer</h1>]]></doctitle>
       <bottom><![CDATA[<i>Copyright &#169; 2003-2004 by Francois Guillet.</i>]]></bottom>
     </javadoc>
